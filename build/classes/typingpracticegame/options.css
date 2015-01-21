@@ -1,0 +1,48 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 13, 2015, 3:37:23 PM
+    Author     : Simon
+*/
+
+.root{
+    //-fx-font-family: "Helvetica";
+    -fx-font-size: 16pt;
+    -fx-font-weight: bolder;
+    -fx-background-repeat: no-repeat;
+    -fx-base: transparent;
+}
+
+.options_vbox {
+    -fx-background-image: url("assets/options.png");
+}
+
+.scores_vbox {
+    -fx-background-image: url("assets/options.png");
+}
+
+.about_vbox {
+    -fx-background-image: url("assets/options.png");
+}
+
+.button {
+    -fx-font-family: "Helvetica";
+    -fx-font-size: 16pt;
+    -fx-font-weight: bolder;
+    -fx-text-fill: black;
+    -fx-background-color: white;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-border-radius: 15px;
+}
+.button:hover {
+    -fx-text-fill: white;
+    -fx-background-color: black;
+    -fx-background-radius: 15px;
+    //-fx-border-color: black;
+    //-fx-border-width: 1px;
+    //-fx-border-radius: 15px;
+}

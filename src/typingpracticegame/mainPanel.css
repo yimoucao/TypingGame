@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 9, 2015, 8:50:48 PM
+    Author     : Simon
+*/
+
+.root{
+
+}
+
+
+.grid {
+    -fx-font-family: "Helvetica";
+    -fx-font-size: 16pt;
+    -fx-font-weight: bolder;
+    -fx-background-image: url("assets/main-panel.png");
+    -fx-background-repeat: no-repeat;
+    -fx-base: transparent;
+}
+.game_grid {
+    -fx-font-family: "Helvetica";
+    -fx-font-size: 16pt;
+    -fx-font-weight: bolder;
+    -fx-background-image: url("assets/gaming-bg.png");
+    -fx-background-repeat: no-repeat;
+    -fx-base: transparent;
+}
+
+.button {
+    -fx-font-family: "Helvetica";
+    -fx-font-size: 16pt;
+    -fx-font-weight: bolder;
+    -fx-text-fill: black;
+    -fx-background-color: white;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-border-radius: 15px;
+}
+.button:hover {
+    -fx-text-fill: white;
+    -fx-background-color: black;
+    -fx-background-radius: 15px;
+    //-fx-border-color: black;
+    //-fx-border-width: 1px;
+    //-fx-border-radius: 15px;
+}
+
+.circle {
+    -fx-background-color: black;
+}
+/*#exit_button {
+
+    -fx-graphic: url("assets/a-button.png");
+    -fx-background-color: transparent;
+}
+#exit_button:hover {
+    -fx-background-color: linear-gradient(to right, transparent, grey 30%, grey 70%, transparent);
+}*/
+
+#gameVbox {
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-border-radius: 10px;
+}
+
+#hit_num_to_show, #bb_count_to_show {
+    -fx-text-fill: black;
+    -fx-background-color: white;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-border-radius: 15px;
+}
