@@ -11,7 +11,7 @@ Some bugs I already knew but haven't fix:
      I really don't know how to delete unused objects in the memory( I treat letters falling down as objects, as Bubble class). So when I change the difficulty to the highest ( 5 specificly) the game will occupy a lot memory as it created a lot bubbles.
 
 
-![Modules](./readme_res/er.png)
+![Modules](./readme_res/modules.png)
 
 - Modules
 
