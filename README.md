@@ -8,6 +8,8 @@ This is a project from my Netbeans projects, a course project for Java.
 
 - Leaderboard of 5 top scores
 
+- Difficulty adjustment
+
 - Random animation after letter hit
 
 ## Bug?
