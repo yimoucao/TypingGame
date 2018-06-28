@@ -4,9 +4,11 @@ A Typing Practice Game Using JavaFX
 This is a project from my Netbeans projects, a course project for Java.
 
 ## Features
-Hand-drawed UI with CSS by using JavaFX
-Leaderboard of 5 top scores
-Random animation after letter hit
+- Hand-drawed UI with CSS by using JavaFX
+
+- Leaderboard of 5 top scores
+
+- Random animation after letter hit
 
 ## Bug?
 Some bugs I already knew but haven't fix:
